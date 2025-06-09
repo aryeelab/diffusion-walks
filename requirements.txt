@@ -1,0 +1,8 @@
+# Core dependencies for diffusion-walks project
+numpy>=1.19,<2.0
+matplotlib>=3.0
+scikit-image>=0.20
+tifffile>=2020.1.1
+ipython>=7.0
+stochastic>=0.7.0
+scipy>=1.8
