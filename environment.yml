@@ -110,6 +110,8 @@ dependencies:
   - zipp=3.23.0=pyhd8ed1ab_0
   - zlib-ng=2.2.4=h13dfb9a_0
   - zstd=1.5.7=h6491c7d_2
+  - numba>=0.56.0
+  - psutil>=5.8.0
   - pip:
       - numpy==1.26.4
       - stochastic==0.7.0
